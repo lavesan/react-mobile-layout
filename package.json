@@ -1,6 +1,12 @@
 {
   "name": "react-mobile-layout",
-  "version": "0.1.2",
+  "version": "0.1.4",
+  "keywords": [
+    "mobile layout",
+    "react mobile layout",
+    "mobile",
+    "react"
+  ],
   "main": "dist/index.js",
   "author": "Valdery Alves Paes Júnior <valdery.jur@gmail.com> (https://valderyalves.com)",
   "module": "dist/index.js",
@@ -10,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/lavesan/react-mobile-layout.git"
   },
   "peerDependencies": {
     "prop-types": "^15.6.0",

@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       <MobileViewComponent>
-        Eu aqui
+        <h1>view</h1>
       </MobileViewComponent>
     </div>
   );

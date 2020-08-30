@@ -66,7 +66,7 @@ const StyledMobileView = styled.div`
       .screen--center {
         border: thin solid ${colors.secondary};
         border-radius: ${width / 16}px;
-        width: 100%;
+        flex: 1;
         background-color: ${colors.screen};
       }
     }

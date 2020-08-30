@@ -67,6 +67,7 @@ const StyledMobileView = styled.div`
         border: thin solid ${colors.secondary};
         border-radius: ${width / 16}px;
         flex: 1;
+        max-width: ${width - width / 10}px;
         background-color: ${colors.screen};
       }
     }

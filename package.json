@@ -2,6 +2,7 @@
   "name": "react-mobile-layout",
   "version": "0.1.2",
   "main": "dist/index.js",
+  "author": "Valdery Alves Paes Júnior <valdery.jur@gmail.com> (https://valderyalves.com)",
   "module": "dist/index.js",
   "files": [
     "dist",

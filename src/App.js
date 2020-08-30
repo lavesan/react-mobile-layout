@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MobileViewComponent from './components/mobile-view'
+import MobileViewComponent from './lib'
 
 function App() {
   return (
